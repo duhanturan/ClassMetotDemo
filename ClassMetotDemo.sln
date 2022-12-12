@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{F054FB1E-A81C-4296-8C3D-05B0255D566E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{5E7FAF97-B70E-4393-969C-AE5D003ADF95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F054FB1E-A81C-4296-8C3D-05B0255D566E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F054FB1E-A81C-4296-8C3D-05B0255D566E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F054FB1E-A81C-4296-8C3D-05B0255D566E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7FAF97-B70E-4393-969C-AE5D003ADF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7FAF97-B70E-4393-969C-AE5D003ADF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7FAF97-B70E-4393-969C-AE5D003ADF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7FAF97-B70E-4393-969C-AE5D003ADF95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
